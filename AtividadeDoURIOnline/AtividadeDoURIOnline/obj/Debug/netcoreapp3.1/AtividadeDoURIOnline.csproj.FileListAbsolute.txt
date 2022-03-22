@@ -1,0 +1,13 @@
+C:\Users\jmrodrigues\source\repos\AtividadeDoURIOnline\AtividadeDoURIOnline\bin\Debug\netcoreapp3.1\AtividadeDoURIOnline.exe
+C:\Users\jmrodrigues\source\repos\AtividadeDoURIOnline\AtividadeDoURIOnline\bin\Debug\netcoreapp3.1\AtividadeDoURIOnline.deps.json
+C:\Users\jmrodrigues\source\repos\AtividadeDoURIOnline\AtividadeDoURIOnline\bin\Debug\netcoreapp3.1\AtividadeDoURIOnline.runtimeconfig.json
+C:\Users\jmrodrigues\source\repos\AtividadeDoURIOnline\AtividadeDoURIOnline\bin\Debug\netcoreapp3.1\AtividadeDoURIOnline.runtimeconfig.dev.json
+C:\Users\jmrodrigues\source\repos\AtividadeDoURIOnline\AtividadeDoURIOnline\bin\Debug\netcoreapp3.1\AtividadeDoURIOnline.dll
+C:\Users\jmrodrigues\source\repos\AtividadeDoURIOnline\AtividadeDoURIOnline\bin\Debug\netcoreapp3.1\AtividadeDoURIOnline.pdb
+C:\Users\jmrodrigues\source\repos\AtividadeDoURIOnline\AtividadeDoURIOnline\obj\Debug\netcoreapp3.1\AtividadeDoURIOnline.csprojAssemblyReference.cache
+C:\Users\jmrodrigues\source\repos\AtividadeDoURIOnline\AtividadeDoURIOnline\obj\Debug\netcoreapp3.1\AtividadeDoURIOnline.AssemblyInfoInputs.cache
+C:\Users\jmrodrigues\source\repos\AtividadeDoURIOnline\AtividadeDoURIOnline\obj\Debug\netcoreapp3.1\AtividadeDoURIOnline.AssemblyInfo.cs
+C:\Users\jmrodrigues\source\repos\AtividadeDoURIOnline\AtividadeDoURIOnline\obj\Debug\netcoreapp3.1\AtividadeDoURIOnline.csproj.CoreCompileInputs.cache
+C:\Users\jmrodrigues\source\repos\AtividadeDoURIOnline\AtividadeDoURIOnline\obj\Debug\netcoreapp3.1\AtividadeDoURIOnline.dll
+C:\Users\jmrodrigues\source\repos\AtividadeDoURIOnline\AtividadeDoURIOnline\obj\Debug\netcoreapp3.1\AtividadeDoURIOnline.pdb
+C:\Users\jmrodrigues\source\repos\AtividadeDoURIOnline\AtividadeDoURIOnline\obj\Debug\netcoreapp3.1\AtividadeDoURIOnline.genruntimeconfig.cache
