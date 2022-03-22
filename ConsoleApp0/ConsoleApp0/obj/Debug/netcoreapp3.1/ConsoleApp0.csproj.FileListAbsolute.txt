@@ -1,0 +1,13 @@
+C:\Users\jmrodrigues\source\repos\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp3.1\ConsoleApp0.exe
+C:\Users\jmrodrigues\source\repos\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp3.1\ConsoleApp0.deps.json
+C:\Users\jmrodrigues\source\repos\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp3.1\ConsoleApp0.runtimeconfig.json
+C:\Users\jmrodrigues\source\repos\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp3.1\ConsoleApp0.runtimeconfig.dev.json
+C:\Users\jmrodrigues\source\repos\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp3.1\ConsoleApp0.dll
+C:\Users\jmrodrigues\source\repos\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp3.1\ConsoleApp0.pdb
+C:\Users\jmrodrigues\source\repos\ConsoleApp0\ConsoleApp0\obj\Debug\netcoreapp3.1\ConsoleApp0.csprojAssemblyReference.cache
+C:\Users\jmrodrigues\source\repos\ConsoleApp0\ConsoleApp0\obj\Debug\netcoreapp3.1\ConsoleApp0.AssemblyInfoInputs.cache
+C:\Users\jmrodrigues\source\repos\ConsoleApp0\ConsoleApp0\obj\Debug\netcoreapp3.1\ConsoleApp0.AssemblyInfo.cs
+C:\Users\jmrodrigues\source\repos\ConsoleApp0\ConsoleApp0\obj\Debug\netcoreapp3.1\ConsoleApp0.csproj.CoreCompileInputs.cache
+C:\Users\jmrodrigues\source\repos\ConsoleApp0\ConsoleApp0\obj\Debug\netcoreapp3.1\ConsoleApp0.dll
+C:\Users\jmrodrigues\source\repos\ConsoleApp0\ConsoleApp0\obj\Debug\netcoreapp3.1\ConsoleApp0.pdb
+C:\Users\jmrodrigues\source\repos\ConsoleApp0\ConsoleApp0\obj\Debug\netcoreapp3.1\ConsoleApp0.genruntimeconfig.cache
