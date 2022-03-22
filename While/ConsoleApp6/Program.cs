@@ -15,12 +15,6 @@ namespace ConsoleApp6 {
           
             }
 
-            Console.ReadLine();
-
-
-
-
-
         }
     }
 }
