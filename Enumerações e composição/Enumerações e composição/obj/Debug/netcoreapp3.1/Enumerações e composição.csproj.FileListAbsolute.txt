@@ -1,0 +1,13 @@
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\Enumerações e composição\Enumerações e composição\bin\Debug\netcoreapp3.1\Enumerações e composição.exe
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\Enumerações e composição\Enumerações e composição\bin\Debug\netcoreapp3.1\Enumerações e composição.deps.json
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\Enumerações e composição\Enumerações e composição\bin\Debug\netcoreapp3.1\Enumerações e composição.runtimeconfig.json
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\Enumerações e composição\Enumerações e composição\bin\Debug\netcoreapp3.1\Enumerações e composição.runtimeconfig.dev.json
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\Enumerações e composição\Enumerações e composição\bin\Debug\netcoreapp3.1\Enumerações e composição.dll
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\Enumerações e composição\Enumerações e composição\bin\Debug\netcoreapp3.1\Enumerações e composição.pdb
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\Enumerações e composição\Enumerações e composição\obj\Debug\netcoreapp3.1\Enumerações e composição.csprojAssemblyReference.cache
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\Enumerações e composição\Enumerações e composição\obj\Debug\netcoreapp3.1\Enumerações e composição.AssemblyInfoInputs.cache
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\Enumerações e composição\Enumerações e composição\obj\Debug\netcoreapp3.1\Enumerações e composição.AssemblyInfo.cs
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\Enumerações e composição\Enumerações e composição\obj\Debug\netcoreapp3.1\Enumerações e composição.csproj.CoreCompileInputs.cache
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\Enumerações e composição\Enumerações e composição\obj\Debug\netcoreapp3.1\Enumerações e composição.dll
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\Enumerações e composição\Enumerações e composição\obj\Debug\netcoreapp3.1\Enumerações e composição.pdb
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\Enumerações e composição\Enumerações e composição\obj\Debug\netcoreapp3.1\Enumerações e composição.genruntimeconfig.cache

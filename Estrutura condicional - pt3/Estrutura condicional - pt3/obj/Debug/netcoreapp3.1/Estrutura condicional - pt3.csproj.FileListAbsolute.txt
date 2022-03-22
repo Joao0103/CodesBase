@@ -1,0 +1,12 @@
+C:\Users\jmrodrigues\source\repos\Estrutura condicional - pt3\Estrutura condicional - pt3\bin\Debug\netcoreapp3.1\Estrutura condicional - pt3.exe
+C:\Users\jmrodrigues\source\repos\Estrutura condicional - pt3\Estrutura condicional - pt3\bin\Debug\netcoreapp3.1\Estrutura condicional - pt3.deps.json
+C:\Users\jmrodrigues\source\repos\Estrutura condicional - pt3\Estrutura condicional - pt3\bin\Debug\netcoreapp3.1\Estrutura condicional - pt3.runtimeconfig.json
+C:\Users\jmrodrigues\source\repos\Estrutura condicional - pt3\Estrutura condicional - pt3\bin\Debug\netcoreapp3.1\Estrutura condicional - pt3.runtimeconfig.dev.json
+C:\Users\jmrodrigues\source\repos\Estrutura condicional - pt3\Estrutura condicional - pt3\bin\Debug\netcoreapp3.1\Estrutura condicional - pt3.dll
+C:\Users\jmrodrigues\source\repos\Estrutura condicional - pt3\Estrutura condicional - pt3\bin\Debug\netcoreapp3.1\Estrutura condicional - pt3.pdb
+C:\Users\jmrodrigues\source\repos\Estrutura condicional - pt3\Estrutura condicional - pt3\obj\Debug\netcoreapp3.1\Estrutura condicional - pt3.AssemblyInfoInputs.cache
+C:\Users\jmrodrigues\source\repos\Estrutura condicional - pt3\Estrutura condicional - pt3\obj\Debug\netcoreapp3.1\Estrutura condicional - pt3.AssemblyInfo.cs
+C:\Users\jmrodrigues\source\repos\Estrutura condicional - pt3\Estrutura condicional - pt3\obj\Debug\netcoreapp3.1\Estrutura condicional - pt3.csproj.CoreCompileInputs.cache
+C:\Users\jmrodrigues\source\repos\Estrutura condicional - pt3\Estrutura condicional - pt3\obj\Debug\netcoreapp3.1\Estrutura condicional - pt3.dll
+C:\Users\jmrodrigues\source\repos\Estrutura condicional - pt3\Estrutura condicional - pt3\obj\Debug\netcoreapp3.1\Estrutura condicional - pt3.pdb
+C:\Users\jmrodrigues\source\repos\Estrutura condicional - pt3\Estrutura condicional - pt3\obj\Debug\netcoreapp3.1\Estrutura condicional - pt3.genruntimeconfig.cache

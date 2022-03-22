@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercico de Fixação exe60/1.0.0": {
+        "runtime": {
+          "Exercico de Fixação exe60.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercico de Fixação exe60/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

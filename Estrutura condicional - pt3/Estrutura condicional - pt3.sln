@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura condicional - pt3", "Estrutura condicional - pt3\Estrutura condicional - pt3.csproj", "{A27402A8-C19A-4AC7-A245-51F0FA2F6735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A27402A8-C19A-4AC7-A245-51F0FA2F6735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27402A8-C19A-4AC7-A245-51F0FA2F6735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27402A8-C19A-4AC7-A245-51F0FA2F6735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27402A8-C19A-4AC7-A245-51F0FA2F6735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF4300A0-854E-46DD-BE2C-9333484EE759}
+	EndGlobalSection
+EndGlobal

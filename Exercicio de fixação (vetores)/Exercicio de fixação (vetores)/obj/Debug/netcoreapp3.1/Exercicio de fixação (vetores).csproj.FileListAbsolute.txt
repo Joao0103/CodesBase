@@ -1,0 +1,13 @@
+C:\Users\jmrodrigues\source\repos\Exercicio de fixação (vetores)\Exercicio de fixação (vetores)\bin\Debug\netcoreapp3.1\Exercicio de fixação (vetores).exe
+C:\Users\jmrodrigues\source\repos\Exercicio de fixação (vetores)\Exercicio de fixação (vetores)\bin\Debug\netcoreapp3.1\Exercicio de fixação (vetores).deps.json
+C:\Users\jmrodrigues\source\repos\Exercicio de fixação (vetores)\Exercicio de fixação (vetores)\bin\Debug\netcoreapp3.1\Exercicio de fixação (vetores).runtimeconfig.json
+C:\Users\jmrodrigues\source\repos\Exercicio de fixação (vetores)\Exercicio de fixação (vetores)\bin\Debug\netcoreapp3.1\Exercicio de fixação (vetores).runtimeconfig.dev.json
+C:\Users\jmrodrigues\source\repos\Exercicio de fixação (vetores)\Exercicio de fixação (vetores)\bin\Debug\netcoreapp3.1\Exercicio de fixação (vetores).dll
+C:\Users\jmrodrigues\source\repos\Exercicio de fixação (vetores)\Exercicio de fixação (vetores)\bin\Debug\netcoreapp3.1\Exercicio de fixação (vetores).pdb
+C:\Users\jmrodrigues\source\repos\Exercicio de fixação (vetores)\Exercicio de fixação (vetores)\obj\Debug\netcoreapp3.1\Exercicio de fixação (vetores).csprojAssemblyReference.cache
+C:\Users\jmrodrigues\source\repos\Exercicio de fixação (vetores)\Exercicio de fixação (vetores)\obj\Debug\netcoreapp3.1\Exercicio de fixação (vetores).AssemblyInfoInputs.cache
+C:\Users\jmrodrigues\source\repos\Exercicio de fixação (vetores)\Exercicio de fixação (vetores)\obj\Debug\netcoreapp3.1\Exercicio de fixação (vetores).AssemblyInfo.cs
+C:\Users\jmrodrigues\source\repos\Exercicio de fixação (vetores)\Exercicio de fixação (vetores)\obj\Debug\netcoreapp3.1\Exercicio de fixação (vetores).csproj.CoreCompileInputs.cache
+C:\Users\jmrodrigues\source\repos\Exercicio de fixação (vetores)\Exercicio de fixação (vetores)\obj\Debug\netcoreapp3.1\Exercicio de fixação (vetores).dll
+C:\Users\jmrodrigues\source\repos\Exercicio de fixação (vetores)\Exercicio de fixação (vetores)\obj\Debug\netcoreapp3.1\Exercicio de fixação (vetores).pdb
+C:\Users\jmrodrigues\source\repos\Exercicio de fixação (vetores)\Exercicio de fixação (vetores)\obj\Debug\netcoreapp3.1\Exercicio de fixação (vetores).genruntimeconfig.cache

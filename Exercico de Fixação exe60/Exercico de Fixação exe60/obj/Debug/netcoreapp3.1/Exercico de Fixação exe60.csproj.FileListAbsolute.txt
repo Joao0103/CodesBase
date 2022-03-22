@@ -1,0 +1,13 @@
+C:\Users\jmrodrigues\source\repos\Exercico de Fixação exe60\Exercico de Fixação exe60\bin\Debug\netcoreapp3.1\Exercico de Fixação exe60.exe
+C:\Users\jmrodrigues\source\repos\Exercico de Fixação exe60\Exercico de Fixação exe60\bin\Debug\netcoreapp3.1\Exercico de Fixação exe60.deps.json
+C:\Users\jmrodrigues\source\repos\Exercico de Fixação exe60\Exercico de Fixação exe60\bin\Debug\netcoreapp3.1\Exercico de Fixação exe60.runtimeconfig.json
+C:\Users\jmrodrigues\source\repos\Exercico de Fixação exe60\Exercico de Fixação exe60\bin\Debug\netcoreapp3.1\Exercico de Fixação exe60.runtimeconfig.dev.json
+C:\Users\jmrodrigues\source\repos\Exercico de Fixação exe60\Exercico de Fixação exe60\bin\Debug\netcoreapp3.1\Exercico de Fixação exe60.dll
+C:\Users\jmrodrigues\source\repos\Exercico de Fixação exe60\Exercico de Fixação exe60\bin\Debug\netcoreapp3.1\Exercico de Fixação exe60.pdb
+C:\Users\jmrodrigues\source\repos\Exercico de Fixação exe60\Exercico de Fixação exe60\obj\Debug\netcoreapp3.1\Exercico de Fixação exe60.csprojAssemblyReference.cache
+C:\Users\jmrodrigues\source\repos\Exercico de Fixação exe60\Exercico de Fixação exe60\obj\Debug\netcoreapp3.1\Exercico de Fixação exe60.AssemblyInfoInputs.cache
+C:\Users\jmrodrigues\source\repos\Exercico de Fixação exe60\Exercico de Fixação exe60\obj\Debug\netcoreapp3.1\Exercico de Fixação exe60.AssemblyInfo.cs
+C:\Users\jmrodrigues\source\repos\Exercico de Fixação exe60\Exercico de Fixação exe60\obj\Debug\netcoreapp3.1\Exercico de Fixação exe60.csproj.CoreCompileInputs.cache
+C:\Users\jmrodrigues\source\repos\Exercico de Fixação exe60\Exercico de Fixação exe60\obj\Debug\netcoreapp3.1\Exercico de Fixação exe60.dll
+C:\Users\jmrodrigues\source\repos\Exercico de Fixação exe60\Exercico de Fixação exe60\obj\Debug\netcoreapp3.1\Exercico de Fixação exe60.pdb
+C:\Users\jmrodrigues\source\repos\Exercico de Fixação exe60\Exercico de Fixação exe60\obj\Debug\netcoreapp3.1\Exercico de Fixação exe60.genruntimeconfig.cache
