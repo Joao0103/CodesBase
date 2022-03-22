@@ -1,0 +1,13 @@
+C:\Users\jmrodrigues\source\repos\Atividades do uri(teste)\Atividades do uri(teste)\bin\Debug\netcoreapp3.1\Atividades do uri(teste).exe
+C:\Users\jmrodrigues\source\repos\Atividades do uri(teste)\Atividades do uri(teste)\bin\Debug\netcoreapp3.1\Atividades do uri(teste).deps.json
+C:\Users\jmrodrigues\source\repos\Atividades do uri(teste)\Atividades do uri(teste)\bin\Debug\netcoreapp3.1\Atividades do uri(teste).runtimeconfig.json
+C:\Users\jmrodrigues\source\repos\Atividades do uri(teste)\Atividades do uri(teste)\bin\Debug\netcoreapp3.1\Atividades do uri(teste).runtimeconfig.dev.json
+C:\Users\jmrodrigues\source\repos\Atividades do uri(teste)\Atividades do uri(teste)\bin\Debug\netcoreapp3.1\Atividades do uri(teste).dll
+C:\Users\jmrodrigues\source\repos\Atividades do uri(teste)\Atividades do uri(teste)\bin\Debug\netcoreapp3.1\Atividades do uri(teste).pdb
+C:\Users\jmrodrigues\source\repos\Atividades do uri(teste)\Atividades do uri(teste)\obj\Debug\netcoreapp3.1\Atividades do uri(teste).csprojAssemblyReference.cache
+C:\Users\jmrodrigues\source\repos\Atividades do uri(teste)\Atividades do uri(teste)\obj\Debug\netcoreapp3.1\Atividades do uri(teste).AssemblyInfoInputs.cache
+C:\Users\jmrodrigues\source\repos\Atividades do uri(teste)\Atividades do uri(teste)\obj\Debug\netcoreapp3.1\Atividades do uri(teste).AssemblyInfo.cs
+C:\Users\jmrodrigues\source\repos\Atividades do uri(teste)\Atividades do uri(teste)\obj\Debug\netcoreapp3.1\Atividades do uri(teste).csproj.CoreCompileInputs.cache
+C:\Users\jmrodrigues\source\repos\Atividades do uri(teste)\Atividades do uri(teste)\obj\Debug\netcoreapp3.1\Atividades do uri(teste).dll
+C:\Users\jmrodrigues\source\repos\Atividades do uri(teste)\Atividades do uri(teste)\obj\Debug\netcoreapp3.1\Atividades do uri(teste).pdb
+C:\Users\jmrodrigues\source\repos\Atividades do uri(teste)\Atividades do uri(teste)\obj\Debug\netcoreapp3.1\Atividades do uri(teste).genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\jmrodrigues\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DataHora.exe
+C:\Users\jmrodrigues\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DataHora.deps.json
+C:\Users\jmrodrigues\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DataHora.runtimeconfig.json
+C:\Users\jmrodrigues\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DataHora.runtimeconfig.dev.json
+C:\Users\jmrodrigues\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DataHora.dll
+C:\Users\jmrodrigues\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DataHora.pdb
+C:\Users\jmrodrigues\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DataHora.AssemblyInfoInputs.cache
+C:\Users\jmrodrigues\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DataHora.AssemblyInfo.cs
+C:\Users\jmrodrigues\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DataHora.csproj.CoreCompileInputs.cache
+C:\Users\jmrodrigues\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DataHora.dll
+C:\Users\jmrodrigues\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DataHora.pdb
+C:\Users\jmrodrigues\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DataHora.genruntimeconfig.cache
