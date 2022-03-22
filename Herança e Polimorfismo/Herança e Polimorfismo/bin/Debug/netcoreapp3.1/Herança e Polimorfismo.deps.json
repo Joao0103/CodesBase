@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Herança e Polimorfismo/1.0.0": {
+        "runtime": {
+          "Herança e Polimorfismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Herança e Polimorfismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

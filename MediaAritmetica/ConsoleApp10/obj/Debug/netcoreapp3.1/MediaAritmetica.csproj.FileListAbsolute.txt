@@ -1,0 +1,12 @@
+C:\Users\jmrodrigues\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\MediaAritmetica.exe
+C:\Users\jmrodrigues\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\MediaAritmetica.deps.json
+C:\Users\jmrodrigues\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\MediaAritmetica.runtimeconfig.json
+C:\Users\jmrodrigues\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\MediaAritmetica.runtimeconfig.dev.json
+C:\Users\jmrodrigues\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\MediaAritmetica.dll
+C:\Users\jmrodrigues\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\MediaAritmetica.pdb
+C:\Users\jmrodrigues\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\MediaAritmetica.AssemblyInfoInputs.cache
+C:\Users\jmrodrigues\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\MediaAritmetica.AssemblyInfo.cs
+C:\Users\jmrodrigues\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\MediaAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\jmrodrigues\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\MediaAritmetica.dll
+C:\Users\jmrodrigues\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\MediaAritmetica.pdb
+C:\Users\jmrodrigues\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\MediaAritmetica.genruntimeconfig.cache

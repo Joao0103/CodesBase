@@ -1,0 +1,13 @@
+C:\Users\jmrodrigues\source\repos\Herança e Polimorfismo\Herança e Polimorfismo\bin\Debug\netcoreapp3.1\Herança e Polimorfismo.exe
+C:\Users\jmrodrigues\source\repos\Herança e Polimorfismo\Herança e Polimorfismo\bin\Debug\netcoreapp3.1\Herança e Polimorfismo.deps.json
+C:\Users\jmrodrigues\source\repos\Herança e Polimorfismo\Herança e Polimorfismo\bin\Debug\netcoreapp3.1\Herança e Polimorfismo.runtimeconfig.json
+C:\Users\jmrodrigues\source\repos\Herança e Polimorfismo\Herança e Polimorfismo\bin\Debug\netcoreapp3.1\Herança e Polimorfismo.runtimeconfig.dev.json
+C:\Users\jmrodrigues\source\repos\Herança e Polimorfismo\Herança e Polimorfismo\bin\Debug\netcoreapp3.1\Herança e Polimorfismo.dll
+C:\Users\jmrodrigues\source\repos\Herança e Polimorfismo\Herança e Polimorfismo\bin\Debug\netcoreapp3.1\Herança e Polimorfismo.pdb
+C:\Users\jmrodrigues\source\repos\Herança e Polimorfismo\Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Herança e Polimorfismo.csprojAssemblyReference.cache
+C:\Users\jmrodrigues\source\repos\Herança e Polimorfismo\Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Herança e Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\jmrodrigues\source\repos\Herança e Polimorfismo\Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Herança e Polimorfismo.AssemblyInfo.cs
+C:\Users\jmrodrigues\source\repos\Herança e Polimorfismo\Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Herança e Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\jmrodrigues\source\repos\Herança e Polimorfismo\Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Herança e Polimorfismo.dll
+C:\Users\jmrodrigues\source\repos\Herança e Polimorfismo\Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Herança e Polimorfismo.pdb
+C:\Users\jmrodrigues\source\repos\Herança e Polimorfismo\Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Herança e Polimorfismo.genruntimeconfig.cache

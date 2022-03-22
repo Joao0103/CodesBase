@@ -1,0 +1,13 @@
+C:\Users\jmrodrigues\source\repos\Object e ToString\Object e ToString\bin\Debug\netcoreapp3.1\Object e ToString.exe
+C:\Users\jmrodrigues\source\repos\Object e ToString\Object e ToString\bin\Debug\netcoreapp3.1\Object e ToString.deps.json
+C:\Users\jmrodrigues\source\repos\Object e ToString\Object e ToString\bin\Debug\netcoreapp3.1\Object e ToString.runtimeconfig.json
+C:\Users\jmrodrigues\source\repos\Object e ToString\Object e ToString\bin\Debug\netcoreapp3.1\Object e ToString.runtimeconfig.dev.json
+C:\Users\jmrodrigues\source\repos\Object e ToString\Object e ToString\bin\Debug\netcoreapp3.1\Object e ToString.dll
+C:\Users\jmrodrigues\source\repos\Object e ToString\Object e ToString\bin\Debug\netcoreapp3.1\Object e ToString.pdb
+C:\Users\jmrodrigues\source\repos\Object e ToString\Object e ToString\obj\Debug\netcoreapp3.1\Object e ToString.csprojAssemblyReference.cache
+C:\Users\jmrodrigues\source\repos\Object e ToString\Object e ToString\obj\Debug\netcoreapp3.1\Object e ToString.AssemblyInfoInputs.cache
+C:\Users\jmrodrigues\source\repos\Object e ToString\Object e ToString\obj\Debug\netcoreapp3.1\Object e ToString.AssemblyInfo.cs
+C:\Users\jmrodrigues\source\repos\Object e ToString\Object e ToString\obj\Debug\netcoreapp3.1\Object e ToString.csproj.CoreCompileInputs.cache
+C:\Users\jmrodrigues\source\repos\Object e ToString\Object e ToString\obj\Debug\netcoreapp3.1\Object e ToString.dll
+C:\Users\jmrodrigues\source\repos\Object e ToString\Object e ToString\obj\Debug\netcoreapp3.1\Object e ToString.pdb
+C:\Users\jmrodrigues\source\repos\Object e ToString\Object e ToString\obj\Debug\netcoreapp3.1\Object e ToString.genruntimeconfig.cache

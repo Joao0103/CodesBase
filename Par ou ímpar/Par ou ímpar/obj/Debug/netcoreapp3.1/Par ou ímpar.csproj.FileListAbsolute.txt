@@ -1,0 +1,13 @@
+C:\Users\jmrodrigues\source\repos\Par ou ímpar\Par ou ímpar\bin\Debug\netcoreapp3.1\Par ou ímpar.exe
+C:\Users\jmrodrigues\source\repos\Par ou ímpar\Par ou ímpar\bin\Debug\netcoreapp3.1\Par ou ímpar.deps.json
+C:\Users\jmrodrigues\source\repos\Par ou ímpar\Par ou ímpar\bin\Debug\netcoreapp3.1\Par ou ímpar.runtimeconfig.json
+C:\Users\jmrodrigues\source\repos\Par ou ímpar\Par ou ímpar\bin\Debug\netcoreapp3.1\Par ou ímpar.runtimeconfig.dev.json
+C:\Users\jmrodrigues\source\repos\Par ou ímpar\Par ou ímpar\bin\Debug\netcoreapp3.1\Par ou ímpar.dll
+C:\Users\jmrodrigues\source\repos\Par ou ímpar\Par ou ímpar\bin\Debug\netcoreapp3.1\Par ou ímpar.pdb
+C:\Users\jmrodrigues\source\repos\Par ou ímpar\Par ou ímpar\obj\Debug\netcoreapp3.1\Par ou ímpar.csprojAssemblyReference.cache
+C:\Users\jmrodrigues\source\repos\Par ou ímpar\Par ou ímpar\obj\Debug\netcoreapp3.1\Par ou ímpar.AssemblyInfoInputs.cache
+C:\Users\jmrodrigues\source\repos\Par ou ímpar\Par ou ímpar\obj\Debug\netcoreapp3.1\Par ou ímpar.AssemblyInfo.cs
+C:\Users\jmrodrigues\source\repos\Par ou ímpar\Par ou ímpar\obj\Debug\netcoreapp3.1\Par ou ímpar.csproj.CoreCompileInputs.cache
+C:\Users\jmrodrigues\source\repos\Par ou ímpar\Par ou ímpar\obj\Debug\netcoreapp3.1\Par ou ímpar.dll
+C:\Users\jmrodrigues\source\repos\Par ou ímpar\Par ou ímpar\obj\Debug\netcoreapp3.1\Par ou ímpar.pdb
+C:\Users\jmrodrigues\source\repos\Par ou ímpar\Par ou ímpar\obj\Debug\netcoreapp3.1\Par ou ímpar.genruntimeconfig.cache
