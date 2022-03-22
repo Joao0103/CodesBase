@@ -1,0 +1,13 @@
+C:\Users\jmrodrigues\source\repos\Encadeamento\Encadeamento\bin\Debug\netcoreapp3.1\Encadeamento.exe
+C:\Users\jmrodrigues\source\repos\Encadeamento\Encadeamento\bin\Debug\netcoreapp3.1\Encadeamento.deps.json
+C:\Users\jmrodrigues\source\repos\Encadeamento\Encadeamento\bin\Debug\netcoreapp3.1\Encadeamento.runtimeconfig.json
+C:\Users\jmrodrigues\source\repos\Encadeamento\Encadeamento\bin\Debug\netcoreapp3.1\Encadeamento.runtimeconfig.dev.json
+C:\Users\jmrodrigues\source\repos\Encadeamento\Encadeamento\bin\Debug\netcoreapp3.1\Encadeamento.dll
+C:\Users\jmrodrigues\source\repos\Encadeamento\Encadeamento\bin\Debug\netcoreapp3.1\Encadeamento.pdb
+C:\Users\jmrodrigues\source\repos\Encadeamento\Encadeamento\obj\Debug\netcoreapp3.1\Encadeamento.csprojAssemblyReference.cache
+C:\Users\jmrodrigues\source\repos\Encadeamento\Encadeamento\obj\Debug\netcoreapp3.1\Encadeamento.AssemblyInfoInputs.cache
+C:\Users\jmrodrigues\source\repos\Encadeamento\Encadeamento\obj\Debug\netcoreapp3.1\Encadeamento.AssemblyInfo.cs
+C:\Users\jmrodrigues\source\repos\Encadeamento\Encadeamento\obj\Debug\netcoreapp3.1\Encadeamento.csproj.CoreCompileInputs.cache
+C:\Users\jmrodrigues\source\repos\Encadeamento\Encadeamento\obj\Debug\netcoreapp3.1\Encadeamento.dll
+C:\Users\jmrodrigues\source\repos\Encadeamento\Encadeamento\obj\Debug\netcoreapp3.1\Encadeamento.pdb
+C:\Users\jmrodrigues\source\repos\Encadeamento\Encadeamento\obj\Debug\netcoreapp3.1\Encadeamento.genruntimeconfig.cache
