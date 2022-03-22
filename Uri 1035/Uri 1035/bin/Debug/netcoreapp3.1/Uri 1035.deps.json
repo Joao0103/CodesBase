@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Uri 1035/1.0.0": {
+        "runtime": {
+          "Uri 1035.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uri 1035/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
