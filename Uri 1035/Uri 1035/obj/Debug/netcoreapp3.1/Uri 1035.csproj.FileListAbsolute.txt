@@ -11,3 +11,9 @@ C:\Users\jmrodrigues\source\repos\Uri 1035\Uri 1035\obj\Debug\netcoreapp3.1\Uri 
 C:\Users\jmrodrigues\source\repos\Uri 1035\Uri 1035\obj\Debug\netcoreapp3.1\Uri 1035.dll
 C:\Users\jmrodrigues\source\repos\Uri 1035\Uri 1035\obj\Debug\netcoreapp3.1\Uri 1035.pdb
 C:\Users\jmrodrigues\source\repos\Uri 1035\Uri 1035\obj\Debug\netcoreapp3.1\Uri 1035.genruntimeconfig.cache
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\CodesBase\Uri 1035\Uri 1035\obj\Debug\netcoreapp3.1\Uri 1035.csprojAssemblyReference.cache
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\CodesBase\Uri 1035\Uri 1035\obj\Debug\netcoreapp3.1\Uri 1035.AssemblyInfoInputs.cache
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\CodesBase\Uri 1035\Uri 1035\obj\Debug\netcoreapp3.1\Uri 1035.AssemblyInfo.cs
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\CodesBase\Uri 1035\Uri 1035\obj\Debug\netcoreapp3.1\Uri 1035.csproj.CoreCompileInputs.cache
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\CodesBase\Uri 1035\Uri 1035\obj\Debug\netcoreapp3.1\Uri 1035.dll
+C:\Users\jmrodrigues\OneDrive - Banco Fibra S A\Documentos\GitHub\CodesBase\Uri 1035\Uri 1035\obj\Debug\netcoreapp3.1\Uri 1035.pdb

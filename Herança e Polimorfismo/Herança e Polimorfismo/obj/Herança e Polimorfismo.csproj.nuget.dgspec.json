@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmrodrigues\\source\\repos\\Herança e Polimorfismo\\Herança e Polimorfismo\\Herança e Polimorfismo.csproj": {}
+    "C:\\Users\\jmrodrigues\\OneDrive - Banco Fibra S A\\Documentos\\GitHub\\CodesBase\\Herança e Polimorfismo\\Herança e Polimorfismo\\Herança e Polimorfismo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmrodrigues\\source\\repos\\Herança e Polimorfismo\\Herança e Polimorfismo\\Herança e Polimorfismo.csproj": {
+    "C:\\Users\\jmrodrigues\\OneDrive - Banco Fibra S A\\Documentos\\GitHub\\CodesBase\\Herança e Polimorfismo\\Herança e Polimorfismo\\Herança e Polimorfismo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmrodrigues\\source\\repos\\Herança e Polimorfismo\\Herança e Polimorfismo\\Herança e Polimorfismo.csproj",
+        "projectUniqueName": "C:\\Users\\jmrodrigues\\OneDrive - Banco Fibra S A\\Documentos\\GitHub\\CodesBase\\Herança e Polimorfismo\\Herança e Polimorfismo\\Herança e Polimorfismo.csproj",
         "projectName": "Herança e Polimorfismo",
-        "projectPath": "C:\\Users\\jmrodrigues\\source\\repos\\Herança e Polimorfismo\\Herança e Polimorfismo\\Herança e Polimorfismo.csproj",
+        "projectPath": "C:\\Users\\jmrodrigues\\OneDrive - Banco Fibra S A\\Documentos\\GitHub\\CodesBase\\Herança e Polimorfismo\\Herança e Polimorfismo\\Herança e Polimorfismo.csproj",
         "packagesPath": "C:\\Users\\jmrodrigues\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmrodrigues\\source\\repos\\Herança e Polimorfismo\\Herança e Polimorfismo\\obj\\",
+        "outputPath": "C:\\Users\\jmrodrigues\\OneDrive - Banco Fibra S A\\Documentos\\GitHub\\CodesBase\\Herança e Polimorfismo\\Herança e Polimorfismo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
